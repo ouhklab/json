@@ -2,11 +2,11 @@
     "title": "Fruit",
     "description": "Fruit description",
     "fruits": [
-      { "name": "Apple", "color": "Red/Green" },
-      { "name": "Banana", "color": "Yellow" },
-      { "name": "Orange", "color": "Orange" },
-      { "name": "Pear", "color": "Green" },
-      { "name": "Strawberry", "color": "Red" },
-      { "name": "Watermelon", "color": "Green" }
+      { "id": "1", "name": "Apple", "color": "Red/Green" },
+      { "id": "2", "name": "Banana", "color": "Yellow" },
+      { "id": "3", "name": "Orange", "color": "Orange" },
+      { "id": "4", "name": "Pear", "color": "Green" },
+      { "id": "5", "name": "Strawberry", "color": "Red" },
+      { "id": "6", "name": "Watermelon", "color": "Green" }
     ]
   }
